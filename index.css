@@ -286,7 +286,7 @@ h2 {
 }
 .corpo8 {
     background-image: url("./palha.jpg");
-    Background-repeat: no-repeat;
+    Background-repeat: repeat;
     Background-size:100% ;
     width: 100%;
     font-family: Arial, Helvetica, sans-serif;
